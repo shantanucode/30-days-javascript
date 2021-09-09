@@ -1,9 +1,9 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Stargazers][stars-shield]][https://github.com/shantanucode/30-days-javascript/stargazers]
+[![Issues][issues-shield]][https://github.com/shantanucode/30-days-javascript/issues-url]
+[![MIT License][license-shield]][https://github.com/shantanucode/30-days-javascript/license-url]
+[![LinkedIn][linkedin-shield]][]
 
 
 <!-- PROJECT LOGO -->
